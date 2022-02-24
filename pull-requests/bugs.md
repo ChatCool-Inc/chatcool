@@ -1,1 +1,1 @@
-How to properly report a bug
+**How to properly report a bug**
