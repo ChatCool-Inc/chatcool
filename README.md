@@ -20,3 +20,6 @@ The bot also includes a **dashboard** which we aim to make fully customizable so
 
 `📕` Documentation - **https://thinkright20.gitbook.io/chatcool/**
  
+### 🔎 License:
+
+[MIT](https://github.com/ChatCool-Inc/chatcool/blob/main/LICENSE.md)
