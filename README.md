@@ -22,4 +22,4 @@ The bot also includes a **dashboard** which we aim to make fully customizable so
  
 ### 🔎 License:
 
-[MIT](https://github.com/ChatCool-Inc/chatcool/blob/main/LICENSE.md)
+[MIT License](https://github.com/ChatCool-Inc/chatcool/blob/main/LICENSE.md)
