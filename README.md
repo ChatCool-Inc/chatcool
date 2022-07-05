@@ -15,7 +15,7 @@ ChatCool is the revolutionary discord bot that all servers need. We focus on sta
 
 `🌐` Website - **https://chatcool.thinkright20man.repl.co/**
 
-`🗳️` Vote - **https://top.gg/bot/843953838079737866 AND **https://adsreference.com/project/view?id=647****
+`🗳️` Vote - **https://top.gg/bot/843953838079737866**
 
 `📋` Dashboard - **https://chatcool.thinkright20man.repl.co/dashboard**
 
