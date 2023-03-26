@@ -11,13 +11,13 @@ ChatCool is the revolutionary discord bot that all servers need. We focus on sta
 
 ### 🔗 Helpful Links:
 
-`📩` Invite Me - **https://chatcool.thinkright20man.repl.co/invite**
+`📩` Invite Me - **https://chatcool-bot.xyz/invite**
 
-`🌐` Website - **https://chatcool.thinkright20man.repl.co/**
+`🌐` Website - **https://chatcool-bot.xyz/**
 
 `🗳️` Vote - **https://top.gg/bot/843953838079737866**
 
-`📋` Dashboard - **https://chatcool.thinkright20man.repl.co/dashboard**
+`📋` Dashboard - **https://chatcool-bot.xyz/dashboard**
 
 `📕` Documentation - **https://thinkright20.gitbook.io/chatcool/**
  
