@@ -6,7 +6,6 @@ ChatCool is the revolutionary discord bot that all servers need. We focus on sta
 ### 👀 Find in this respository:
  - Submit Bugs, Suggestions, and Questions
  - Stay up to date with the latest version
- - View public activity
  - Our Wiki
 
 ### 🔗 Helpful Links:
@@ -16,8 +15,6 @@ ChatCool is the revolutionary discord bot that all servers need. We focus on sta
 `🌐` Website - **https://chatcool-bot.xyz/**
 
 `🗳️` Vote - **https://top.gg/bot/843953838079737866**
-
-`📋` Dashboard - **https://chatcool-bot.xyz/dashboard**
 
 `📕` Documentation - **https://thinkright20.gitbook.io/chatcool/**
  
