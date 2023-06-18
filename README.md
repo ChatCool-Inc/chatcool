@@ -4,7 +4,7 @@
 ChatCool is the revolutionary discord bot that all servers need. ChatCool includes statistics, games, information, giveaways, utilities and other very cool things that suit your server! The bot also includes a **dashboard** which we aim to make fully customizable soon.
 
 ### 👀 Find in this respository:
- - Submit Bugs, Suggestions, and Questions
+ - You can Submit Bugs, Suggestions, and Questions
  - Stay up to date by reading the latest version on our Wiki
 
 ### 🔗 Helpful Links:
