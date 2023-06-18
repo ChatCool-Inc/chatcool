@@ -9,7 +9,7 @@ ChatCool is the revolutionary discord bot that all servers need. ChatCool includ
 
 ### 🔗 Helpful Links:
 
-`📩` Invite Me - **https://chatcool-bot.xyz/invite**
+`📩` Invite - **https://chatcool-bot.xyz/invite**
 
 `🌐` Website - **https://chatcool-bot.xyz/**
 
