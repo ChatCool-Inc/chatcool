@@ -13,7 +13,7 @@ ChatCool is the revolutionary discord bot that all servers need. ChatCool includ
 
 `🌐` Website - **https://chatcool-bot.xyz/**
 
-`🗳️` Vote - **https://top.gg/bot/843953838079737866**
+`🗳️` Vote - **https://top.gg/bot/843953838079737866/vote**
 
 `📕` Documentation - **https://thinkright20.gitbook.io/chatcool/**
 
