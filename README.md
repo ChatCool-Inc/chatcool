@@ -5,7 +5,7 @@ ChatCool is the revolutionary discord bot that all servers need. ChatCool includ
 
 ### 👀 Find in this respository:
  - You can Submit Bugs, Suggestions, and Questions
- - Stay up to date by reading the latest version on our Wiki
+ - Stay up to date by reading the latest release on our Wiki
 
 ### 🔗 Helpful Links:
 
