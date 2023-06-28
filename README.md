@@ -17,7 +17,7 @@ ChatCool is the revolutionary discord bot that all servers need. ChatCool includ
 
 `📕` Docs - **https://thinkright20.gitbook.io/chatcool/**
 
-### 🔎 License:
+### 🔎 GitHub License:
 
 [MIT License](https://github.com/ChatCool-Inc/chatcool/blob/main/LICENSE.md)
 
