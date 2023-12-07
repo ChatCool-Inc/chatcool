@@ -1,7 +1,7 @@
 # ChatCool
 
 **What is ChatCool?**
-ChatCool is the revolutionary Discord Bot that all servers need. ChatCool includes statistics, games, information, giveaways, utilities, birthdays, notepad, suggestions and other very cool features that suit your server! The bot also includes a **dashboard** which we aim to make fully customizable soon.
+ChatCool is the revolutionary Discord Bot that all servers need. ChatCool includes statistics, games, information, giveaways, utilities, birthdays, notepad, suggestions and other very useful features that suit your server! The bot also includes a **dashboard** which we aim to make fully customizable soon.
 
 ### 👀 What is in this repository:
  - You can Submit Bugs, Suggestions, and Questions
